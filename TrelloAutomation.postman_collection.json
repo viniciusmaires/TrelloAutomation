@@ -15,7 +15,7 @@
 							"listen": "prerequest",
 							"script": {
 								"exec": [
-									"//Setando as variaveis de ambiente do body\r",
+									"//Setando as variaveis de ambiente do body TESTES\r",
 									"pm.environment.set(\"name\", \"TesteSensedia2022\")\r",
 									"pm.environment.set(\"desc\", \"Card criado para testes\")\r",
 									"pm.environment.set(\"idBoard\", \"62355cdfa76ad6863acb5f4b\")\r",
