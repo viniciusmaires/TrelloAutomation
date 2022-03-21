@@ -18,7 +18,7 @@
 
 + Abrir o Postman;
 
-+ Importar a coleção "TrelloAutomation"
++ Importar a coleção "TrelloAutomation";
 
 + Importar as variáveis de ambiente "testes";
 
