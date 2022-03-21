@@ -15,7 +15,11 @@
 							"listen": "prerequest",
 							"script": {
 								"exec": [
+<<<<<<< HEAD:TrelloAutomation.collection.json
 									"//Setando as variaveis de ambiente do body\r",
+=======
+									"// Setando as variaveis de ambiente do body\r",
+>>>>>>> 1e1b813693f20238e797eb51bd3b76a24140db57:TrelloAutomation.postman_collection.json
 									"pm.environment.set(\"name\", \"TesteSensedia2022\")\r",
 									"pm.environment.set(\"desc\", \"Card criado para testes\")\r",
 									"pm.environment.set(\"idBoard\", \"62355cdfa76ad6863acb5f4b\")\r",
