@@ -1,4 +1,4 @@
-# **TrelloAutomation**
+# <h1 align="center">TrelloAutomation</h1>
 
 > Automação das APIs do Trello realizada no Postman.
 
